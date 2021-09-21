@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nikita-Chek
+- 👀 I’m interested in ML, DataScience, Mathematics, Big Data, Cryptography and DataBases/
+- 🌱 I’m currently learning Julia, Mysql, ML, DS
